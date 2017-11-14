@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">fragmentlist</string>
+    <string-array name="topics">
+        <item>American Football</item>
+        <item>Archery</item>
+        <item>Badminton</item>
+        <item>Baseball</item>
+        <item>Basketball</item>
+        <item>Beach Volleyball</item>
+        <item>Bowling</item>
+        <item>Boxing</item>
+        <item>Canoe/Kayak</item>
+        <item>Climbing</item>
+        <item>Cycling</item>
+        <item>Diving</item>
+        <item>Equestrian</item>
+        <item>Fencing</item>
+        <item>Football</item>
+        <item>Golf</item>
+        <item>Gymnastics</item>
+        <item>Hockey</item>
+        <item>Martial Arts</item>
+        <item>Roller Skating</item>
+        <item>Sailing</item>
+        <item>Shooting</item>
+        <item>Skiing</item>
+        <item>Soccer</item>
+        <item>Surfing</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+        <item>Volleyball</item>
+        <item>Water Polo</item>
+        <item>Weightlifting</item>
+        <item>Wrestling</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>American Football</item>
+        <item>Archery</item>
+        <item>Badminton</item>
+        <item>Baseball</item>
+        <item>Basketball</item>
+        <item>Beach Volleyball</item>
+        <item>Bowling</item>
+        <item>Boxing</item>
+        <item>Canoe/Kayak</item>
+        <item>Climbing</item>
+        <item>Cycling</item>
+        <item>Diving</item>
+        <item>Equestrian</item>
+        <item>Fencing</item>
+        <item>Football</item>
+        <item>Golf</item>
+        <item>Gymnastics</item>
+        <item>Hockey</item>
+        <item>Martial Arts</item>
+        <item>Roller Skating</item>
+        <item>Sailing</item>
+        <item>Shooting</item>
+        <item>Skiing</item>
+        <item>Soccer</item>
+        <item>Surfing</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+        <item>Volleyball</item>
+        <item>Water Polo</item>
+        <item>Weightlifting</item>
+        <item>Wrestling</item>
+    </string-array>
+</resources>
